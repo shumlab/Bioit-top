@@ -30,3 +30,6 @@ $ git pull https://github.com/shenweiyan/WebStack-Hugo.git
 
 - [gh-pages](https://github.com/shenweiyan/Bioit-top/tree/gh-pages) 分支部署至 [Cloudflare Pages](https://pages.cloudflare.com/)，同时绑定 [https://webstack.bioit.top](https://webstack.bioit.top)，**国内访问可能有一定延迟。**
 
+
+
+<!-- Security scan triggered at 2025-09-02 14:25:17 -->
